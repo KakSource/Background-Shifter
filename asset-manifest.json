@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Background-Shifter/static/css/main.883494ba.css",
+    "main.js": "/Background-Shifter/static/js/main.702e6588.js",
+    "index.html": "/Background-Shifter/index.html",
+    "main.883494ba.css.map": "/Background-Shifter/static/css/main.883494ba.css.map",
+    "main.702e6588.js.map": "/Background-Shifter/static/js/main.702e6588.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.883494ba.css",
+    "static/js/main.702e6588.js"
+  ]
+}
